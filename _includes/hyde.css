@@ -61,10 +61,10 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background: -webkit-linear-gradient(#009688, #00695C);
-  background: -o-linear-gradient(#009688, #00695C);
-  background: -moz-linear-gradient(#009688, #00695C);
-  background: linear-gradient(#009688, #00695C);
+  background: -webkit-linear-gradient(#FF7519, #FF9E5E);
+  background: -o-linear-gradient(#FF7519, #FF9E5E);
+  background: -moz-linear-gradient(#FF7519, #FF9E5E);
+  background: linear-gradient(#FF7519, #FF9E5E);
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -323,11 +323,11 @@ a.sidebar-nav-item:focus {
 .social-item a {
   display: block;
   position: relative;
-  border: 1px solid #BBB;
+  border: 1px solid #FFF;
   border-radius: 50%;
   font-weight: bold;
   text-shadow: none;
-  color: #BBB;
+  color: #FFF;
   -webkit-font-smoothing: antialiased; }
   .navigation__item a:hover {
     color: #FFF;
@@ -397,10 +397,6 @@ a.sidebar-nav-item:focus {
   color: #FFD54F;
   border-color: #FFD54F; }
   
-.foursquare a:hover {
-  color: #7986CB;
-  border-color: #7986CB; }  
-  
 .linkedin a:hover {
   color: #64B5F6;
   border-color: #64B5F6; }    
@@ -408,3 +404,7 @@ a.sidebar-nav-item:focus {
 .mail a:hover {
   color: #4DB6AC;
   border-color: #4DB6AC; }  
+
+.facebook a:hover {
+  color: #4D94FF;
+  border-color: #4D94FF; }  

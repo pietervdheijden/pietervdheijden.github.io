@@ -1,7 +1,0 @@
----
-layout: post
-title: Blue Notify v1.0.3
-date: '2010-08-10 00:00:00'
----
-
-This is a small update that simply adds longer intervals for checking. A widget and other goodies will be in version 1.1.

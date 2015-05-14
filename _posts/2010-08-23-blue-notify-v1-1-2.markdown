@@ -1,7 +1,0 @@
----
-layout: post
-title: Blue Notify v1.1.2
-date: '2010-08-23 00:00:00'
----
-
-First off, I&#8217;m sorry for the bugs caused in v1.1.0 & .1.1. The main bugs were 2 very simple (though not so simple to find) bugs in the logic with handling notifications. Anyway, they&#8217;re now fixed and I can confirm that notifications are now working as before! Please let me know though.

@@ -7,27 +7,26 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Chris Banes
-description:      'I work as a DPE in the Android Developer Relations team. This is my personal blog and any views expressed here are mine, and not my employers.'
-url:              http://chris.banes.me
+title:            Pieter van der Heijden
+description:      'I am a CS student at the TU/e and freelance software developer at VCF Software Solutions. This is my personal blog.'
+url:              http://pietervdheijden.me
 baseurl:          /
 logo:             /content/images/me.jpg
 
 author:
-  name:           'Chris Banes'
-  url:            https://plus.google.com/+ChrisBanes
+  name:           'Pieter van der Heijden'
 
 paginate:         5
 
-disqus_shortname: chrisbanes
+disqus_shortname: pietervdheijden
 
 github:
-  repo:           https://github.com/chrisbanes/chrisbanes.github.io
+  repo:           https://github.com/pietervdheijden/pietervdheijden.github.io
 
 gems:
   - jekyll-sitemap
 
-twitter: '@chrisbanes'
+twitter: '@pieterheijden'
 
 kramdown:
   # Enable GitHub Flavored Markdown (fenced code blocks)

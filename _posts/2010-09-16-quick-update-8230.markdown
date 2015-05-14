@@ -1,9 +1,0 @@
----
-layout: post
-title: Quick update…
-date: '2010-09-16 00:00:00'
----
-
-Hey,
-
-Just to let you know that I&#8217;m definitely still working on the app. I started a new job last month and for the past fortnight the amount of time I&#8217;ve had to work on Blue Notify has diminished greatly. I opened up Eclipse for the first time in a while last night and have already put a couple of small fixes in. Going to test them over the weekend and see how they fare. Hopefully a update will be out over the weekend.

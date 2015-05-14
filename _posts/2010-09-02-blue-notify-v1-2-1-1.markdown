@@ -1,7 +1,0 @@
----
-layout: post
-title: Blue Notify v1.2.1.1
-date: '2010-09-02 00:00:00'
----
-
-First off all an apology for the delay in me releasing this fix release, I&#8217;ve been a &#8220;bit&#8221; busy over the past couple of days with other things. Anyway v1.2.1.1 has been released onto the Market and fixes the bug where notifications would not be launched when pressed on. There&#8217;s the still the bug where when you&#8217;ve already pressed on notification (and the browser is open) and then press another notification, the browser won&#8217;t open the second notification. This will not be a simple fix but will be done over the next couple of days.
