@@ -9,8 +9,8 @@ relative_permalinks: true
 # Setup
 title:            Pieter van der Heijden
 description:      'I am a CS student at the TU/e and freelance software developer at VCF Software Solutions. This is my personal blog.'
-url: https://pietervdheijden.me
-enforce_ssl: pietervdheijden.me
+#url: https://pietervdheijden.me
+#enforce_ssl: pietervdheijden.me
 baseurl:          /
 logo:             /content/images/me.jpg
 
